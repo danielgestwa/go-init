@@ -37,7 +37,7 @@ func (dog *Dog) changeName(name string) {
 	dog.name = name
 }
 
-func main() {
+func basics() {
 	var i int = 999
 	var s string = "MyString"
 	var b bool = true
